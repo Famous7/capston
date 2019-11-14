@@ -1,0 +1,10 @@
+OSC_host:127.0.0.1
+OSC_port:4559
+Wi-Fi_num:3
+BLE_num:2
+Wi-Fi_rssi:-50
+BLE_rssi:-70
+bts:bts.txt
+maple:maple.txt
+chop:chop.txt
+shape:shape.txt
